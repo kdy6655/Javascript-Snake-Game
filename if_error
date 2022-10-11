@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/tmp
+chrome 관리자 설정 -> 주소에 복붙 -> 권리자 권한으로 실행 -> 해당 파일 열기
